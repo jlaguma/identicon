@@ -14,7 +14,7 @@ setup(
     version=identicon.__version__,
     author=identicon.__author__,
     author_email='james@taran.biz',
-    url='https://www.linkedin.com/in/jlaguma/',
+    url='https://github.com/jlaguma/identicon',
     packages=['identicon'],
     package_data={},
     install_requires=['click', 'pillow'],
